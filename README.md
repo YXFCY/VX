@@ -1,3 +1,0 @@
-# VX
-AdGuard
-fxjhcvh
