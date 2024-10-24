@@ -1,1 +1,13 @@
-cscs
+||umeng.com^
+||oth.eve.mdt.qq.com^
+||dns.alidns.com^
+||img.ssl.msdk.qq.com^
+||ws-keyboard.shouji.sogou.com^
+||dataflow.biliapi.com^
+||msdk.qq.com^
+||aeventlog.beacon.qq.com^
+||in.appcenter.ms^
+||snowflake.qq.com^
+||apd-pcdnwxnat.teg.tencent-cloud.net^
+||szlong.weixin.qq.com^
+||is.snssdk.com^
